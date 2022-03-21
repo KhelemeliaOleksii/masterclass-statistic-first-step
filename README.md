@@ -2,6 +2,19 @@
 
 Material is from GoIT course (java script). Masterclass from Repeta
 
+# What I do
+
+Greate chart of temperature statistic. Used data from Nasa cite.
+
+practice on:
+
+- fetch 
+
+- data parsing with external libruary (PapaParse). 
+We can get data from url without fetch (first step), but this method is blocked by CORS policy
+
+- data drawing in canvas with ChartJs libruary
+
 # Todo
 
 data resorse: 
